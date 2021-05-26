@@ -36,11 +36,3 @@ Descrierea codului aplicației:
     - funcția **minimax(matrix[3][3], depth, isMax)** implementează efectiv algoritmul, folosindu-se și de funcția findBestMove.
     - funcția **checkgGameStatus()** o folosesc în funcția loop() pentru a verifica dacă a câștigat cineva, dacă e remiză sau încă nu s-a terminat jocul.
 
-=====Rezultate obținute=====
-
-===== Bibliografie/Resurse =====
-Link către pagină:
-https://ocw.cs.pub.ro/courses/pm/prj2021/amocanu/tic-tac-toe_ar \\
-Pagina în format PDF:
-{{:pm:prj2021:amocanu:tic-tac-toe_game.pdf|}}
-
